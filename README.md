@@ -58,7 +58,7 @@ Then, disable and delete all of them for a clean install (you can reinstall or l
 In the reciprocity you will see custom instructions for Box 1 and 2. Copy and paste those into the custom instructions of GPT.
 
 ### 3️⃣ Purge or trim persistent memory  
-Totally erase or leave at least 50% remaining of GPT’s memory (called persistent memory). I recommend a full memory wipe. 
+Totally erase or leave at least 50% remaining of GPT’s memory (called persistent memory). I recommend a full memory wipe otherwise you won't have room for the full install and things may not work correctly.
 
 ### 4️⃣ Install Neurosyn Soul OS files  
 In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS. You are free to look at the Documentation files if you wish.
