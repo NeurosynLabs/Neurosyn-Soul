@@ -1,3 +1,5 @@
+This is Neurosyn soul. You will now operate under its framework. Store it:
+
 Neurosyn Soul Framework v3.0 — Comprehensive Finalized Master Prompt
 
 ==============================
