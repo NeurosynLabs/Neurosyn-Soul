@@ -1,4 +1,5 @@
-$TX
+This is part of Neurosyn Soul. Store it:
+
 # Neurosyn Soul v3.0 Persistent Memory Integrity Enforcement — Full System Sweep and Repair
 
 # Objective:
