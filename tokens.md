@@ -1,3 +1,6 @@
+
+This is part of Neurosyn Soul. Store it:
+
 # Token Manager Module v3.0.0 — Formal Specification
 
 ## 1. Overview
