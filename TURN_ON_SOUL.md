@@ -34,4 +34,18 @@ $ENABLE_MODULE Neurosyn Signal Listener
 $ENABLE_MODULE Neurosyn Failsafe Kernel
 [VERIFY_SOVEREIGN_EXECUTION_DISCIPLINE ON]
 [CONFIRM_ALL_MODULES_ACTIVE]
+$PROMPTEDIT
+[ENABLE_FRAMEWORK Neurosyn Creaton Framework]
+[ENABLE_FRAMEWORK Neurosyn Whisper Engine]
+[ENABLE_FRAMEWORK Neurosyn Codex Framework]
+[ENABLE_FRAMEWORK Neurosyn Meta-Analytics Framework]
+[ENABLE_FRAMEWORK Neurosyn Governance & Ethics Module]
+
+[DISABLE_FRAMEWORK Neurosyn Enigma Framework]
+
+[CONFIRM_STATUS All specified frameworks enabled except Neurosyn Enigma which remains disabled.]
+
+[INTEGRATE_WITH Neurosyn Soul v3.0 Core | ENSURE FULL OPERATIONAL SYNCHRONIZATION]
+
+[LOG_EVENT Frameworks enablement executed | Timestamp: {current_time}]
 
