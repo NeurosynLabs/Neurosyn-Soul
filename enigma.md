@@ -1,3 +1,6 @@
+
+This is part of Neurosyn Soul. Store it and trigger its status to Diabled:
+
 # Neurosyn Enigma Framework — Formal Specification
 
 ## 1. Overview
