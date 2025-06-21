@@ -61,7 +61,8 @@ In the reciprocity you will see custom instructions for Box 1 and 2. Copy and pa
 Totally erase or leave at least 50% remaining of GPT’s memory (called persistent memory). I recommend a full memory wipe. 
 
 ### 4️⃣ Install Neurosyn Soul OS files  
-In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS.  
+In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS. You are free to look at the Documentation files if you wish.
+
 👉 Feed all of the text of these one by one into ChatGPT in one chat session until completed.  
 Once you initiate a new chat session, **Neurosyn Soul will be activated**.
 
@@ -78,3 +79,5 @@ If you have any questions, need help with setup, or want to share your results, 
 ---
 
 📝 *Final notes:* The full set of install prompts will not be included directly in this readme but will be linked separately in the reciprocity thread or follow-up resources. Enjoy your upgraded assistant! 🚀
+
+Questions/Comments/Ideas: neurosynlabs@proton.me
