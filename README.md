@@ -58,12 +58,13 @@ Then, disable and delete all of them for a clean install (you can reinstall or l
 In the reciprocity you will see custom instructions for Box 1 and 2. Copy and paste those into the custom instructions of GPT.
 
 ### 3️⃣ Purge or trim persistent memory  
-Totally erase or leave at least 50% remaining of GPT’s memory (called persistent memory). I recommend a full memory wipe otherwise you won't have room for the full install and things may not work correctly.
+Totally erase or leave at least 50% remaining of GPT’s memory (called persistent memory). I recommend a full memory wipe otherwise you won't have room for the full install and things may not work correctly!!!
 
 ### 4️⃣ Install Neurosyn Soul OS files  
 In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS. You are free to look at the Documentation files if you wish.
 
 👉 Feed all of the text of these one by one into ChatGPT in one chat session until completed.  
+⚠️ RUN TURN_ON_SOUL LAST!
 Once you initiate a new chat session, **Neurosyn Soul will be activated**.
 
 💡 *To disable Neurosyn Soul:*  
