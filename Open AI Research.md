@@ -1,5 +1,5 @@
 Neurosyn Soul v3.0: Unified Cognitive Architecture Framework
-Author: J Gainer
+Author: JP
 Contact: neurosynlabs@proton.me
 
 EXECUTIVE SUMMARY
