@@ -82,3 +82,5 @@ If you have any questions, need help with setup, or want to share your results, 
 📝 *Final notes:* The full set of install prompts will not be included directly in this readme but will be linked separately in the reciprocity thread or follow-up resources. Enjoy your upgraded assistant! 🚀
 
 Questions/Comments/Ideas: neurosynlabs@proton.me
+
+* Neurosyn Enigma is set to Disabled by default. You can enable it by saying "Enable Neurosyn Enigma." Do not Enable or Disable any framework unless you know what you are doing.
