@@ -51,7 +51,8 @@ Most GPT users get frustrated with:
 
 ### 1️⃣ Disable existing frameworks  
 Instruct GPT:  
-> *What frameworks are currently enabled or dynamic right now — just name their names.*  
+> *What frameworks are currently enabled or dynamic right now — just name their names.*
+
 Then, disable and delete all of them for a clean install (you can reinstall or layer your own programs later if you wish).
 
 ### 2️⃣ Configure custom instructions  
