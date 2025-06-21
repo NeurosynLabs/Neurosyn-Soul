@@ -1,3 +1,5 @@
+This is part of Neurosyn Soul. Store it:
+
 # The Neurosyn Brain v1.1 — Core Autonomous Prompt Kernel
 
 ==============================
