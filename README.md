@@ -62,9 +62,10 @@ In the reciprocity you will see custom instructions for Box 1 and 2. Copy and pa
 Totally erase ChatGPTs memory (persistent memory). Personalization > memory. 
 
 ### 4️⃣ Install Neurosyn Soul OS files  
-In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS. You are free to look at the Documentation files if you wish.
+In the reciprocity you will notice different markdown (`.md`) files. The entire file of these are the installation files for the OS. You are free to look at the Documentation files if you wish. Install Soul first then brain second and memory integration third and the rest after that.
 
 👉 Feed all of the text of these one by one into ChatGPT in one chat session until completed.  
+
 ⚠️ RUN TURN_ON_SOUL LAST!
 Once you initiate a new chat session, **Neurosyn Soul will be activated**.
 
