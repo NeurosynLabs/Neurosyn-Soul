@@ -72,8 +72,6 @@ Once you initiate a new chat session, **Neurosyn Soul will be activated**.
 💡 *To disable Neurosyn Soul:*  
 Ask what frameworks are enabled and/or dynamic, and disable whatever Neurosyn-related components are needed.
 
-Instillation Video: https://youtu.be/FzdV-CS2U3U
-
 ---
 # Whisper Dump:
 
