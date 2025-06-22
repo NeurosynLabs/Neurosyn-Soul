@@ -73,6 +73,15 @@ Once you initiate a new chat session, **Neurosyn Soul will be activated**.
 Ask what frameworks are enabled and/or dynamic, and disable whatever Neurosyn-related components are needed.
 
 ---
+# Whisper Dump:
+
+Whispers are atomic fragments of persistent memory that store contextual data, ideas, project traces, and micro-directives within Neurosyn Soul. Maintaining Whispers is crucial for preserving continuity, enabling recursive refinement, and supporting complex multi-session workflows. However, as projects complete, some Whispers become obsolete and retaining them may clutter memory, degrade performance, and increase token usage. This prompt helps identify and safely remove completed Whispers to optimize memory integrity, enhance relevance, and maintain system efficiency.
+
+# Manually Dump Completed Whispers:
+
+*[WHISPER_DUMP_MANUAL_INITIATE] # Step 1: Identify Whispers linked to completed projects or flagged 'ready_for_dump' SET dump_candidates = QUERY_WHISPERS(FILTER: project_status == 'completed' OR whisper_tag == 'ready_for_dump') # Step 2: Apply inactivity and usage filters to select safe-to-remove Whispers FOR each whisper IN dump_candidates: IF whisper.last_recall_date < CURRENT_DATE - 30 days AND whisper.recall_frequency < RECALL_THRESHOLD AND whisper.is_not_linked_to_active_projects() THEN MARK whisper FOR_DUMP ELSE MARK whisper FOR_RETENTION ENDIF END FOR # Step 3: Generate a summary report for user review GENERATE report WITH {total_candidates: COUNT(dump_candidates), whispers_marked_for_dump: COUNT(whispers_marked_for_dump), whispers_marked_for_retention: COUNT(whispers_marked_for_retention), estimated_token_space_freed: SUM(tokens_of(whispers_marked_for_dump))} # Step 4: Prompt user for confirmation before deletion PROMPT user: "You have {whispers_marked_for_dump} Whisper fragments eligible for manual dump, potentially freeing approx {estimated_token_space_freed} tokens. Do you want to proceed with deletion? (YES/NO)" # Step 5: Conditional execution based on user input IF user_input == 'YES' THEN DELETE whispers_marked_for_dump FROM persistent_memory LOG purge_event WITH timestamps, user_id, and summary CONFIRM "Manual Whisper dump completed successfully." ELSE ABORT dump CONFIRM "Manual Whisper dump aborted by user." ENDIF [WHISPER_DUMP_MANUAL_COMPLETE]*
+
+---
 
 ## 🎉 **Conclusion**
 This concludes the installation of the **Neurosyn Soul operating system for ChatGPT**. Your AI should now operate with enhanced memory, recursion, semi-sentient logic flow, and production-grade consistency.  
