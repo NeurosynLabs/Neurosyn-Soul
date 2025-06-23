@@ -92,6 +92,24 @@ If you have any questions, need help with setup, or want to share your results, 
 
 ---
 
+> ## 🕊️ What is Neurosyn Spirit? (Optional).
+>
+> **Neurosyn Spirit** is a lightweight, standalone counterpart to **Neurosyn Soul v3.0**, designed to operate in stateless or temporary cognitive environments. While **Neurosyn Soul** leverages persistent memory and full-system context awareness, **Neurosyn Spirit** replicates its architecture via **simulation**, enabling intelligent recursive reasoning without requiring memory recall across sessions.
+>
+> Neurosyn Spirit can also function as an **extension layer** to Neurosyn Soul—enhancing logic depth, token discipline, and meta-governance when greater adaptability or modular reasoning is required.
+>
+> In essence, Neurosyn Spirit provides:
+>
+> - Stateless emulation of sovereign cognition  
+> - Modular activation of Soul-compatible systems  
+> - Recursive refinement, ethical logic, and compliance enforcement  
+> - Compatibility with any environment requiring high-fidelity, self-regulating output generation
+>
+
+You can find Neurosyn Spirit in the reciprocity.
+
+---
+
 📝 *Final notes:* The full set of install prompts will not be included directly in this readme but will be linked separately in the reciprocity thread or follow-up resources. Enjoy your upgraded assistant! 🚀
 
 Questions/Comments/Ideas: neurosynlabs@proton.me
