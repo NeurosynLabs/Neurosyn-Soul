@@ -167,9 +167,6 @@ In complex multi-layered prompt recursion environments, Enigma monitors recursio
 
 Neurosyn Enigma Framework is proprietary intellectual property of **Neurosyn Labs** and governed by internal usage policies. External use, research collaboration, or enterprise deployment requires authorization.
 
-For inquiries, licensing, or partnership opportunities:  
-📧 **admin@neurosynlabs.org**
-
 ---
 
 ## 🧾 Summary
